@@ -743,6 +743,7 @@ else
         fscanf(fp,"%[^\n] %s %s %s %llu %[^\n] %[^\n]\n",name,gender,dob,email,&phoneno,bloodgrp,branch);
       }
      }
+fflush(stdin);
 go(40,25);
 printf("(*) USE n TO MOVE TO NEXT STUDENT.(*)\n");
 go(40,26);
