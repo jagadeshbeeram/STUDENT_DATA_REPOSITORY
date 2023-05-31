@@ -18,3 +18,8 @@ student data repository can perform this following operations:
 - Bonus: Secured with Password
 
 ### 01. Login Screen - USERID: Admin@iitbbs Password: IITBBS
+![d5eacbde-5b3a-4bec-80b1-33d3e6e7d882](https://github.com/jagadeshbeeram/STUDENT_DATA_REPOSITORY/assets/133480021/d534a7eb-1562-4cb8-a1c5-987a5644334a)
+
+### 02. Main Menu
+
+
