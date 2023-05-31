@@ -632,6 +632,7 @@ go(42,14);
 printf("Press d to delete another student details");
 go(42,16);
 printf("Press m to go to menu");
+fflush(stdin);
 char q;
 q=getch();
   if(q=='d')
@@ -967,6 +968,7 @@ go(10,34);
 printf("Press u to update another student details");
 go(10,36);
 printf("Press m to go to menu");
+fflush(stdin);
 char q;
 q=getch();
   if(q=='u')
