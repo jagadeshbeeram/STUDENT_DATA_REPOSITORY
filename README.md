@@ -5,13 +5,13 @@ student data repository is secured with a layer of password screen to secure its
 
 student data repository can perform this following operations:
 
-- Adding Records
+- Add new student
 
-- Searching for Record
+- Search for student
 
-- Modifying Records
+- list of student
 
-- Listing All Records
+- update details
 
 - Deletion of Record
 
@@ -21,5 +21,17 @@ student data repository can perform this following operations:
 ![d5eacbde-5b3a-4bec-80b1-33d3e6e7d882](https://github.com/jagadeshbeeram/STUDENT_DATA_REPOSITORY/assets/133480021/d534a7eb-1562-4cb8-a1c5-987a5644334a)
 
 ### 02. Main Menu
+
+### 03. Add new student
+
+### 04. Search for student
+
+### 05. list of student
+
+### 06. update details
+
+### 07. Deletion of Record
+
+### 08. Credit Screen / End
 
 
