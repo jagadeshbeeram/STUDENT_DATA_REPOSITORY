@@ -963,7 +963,6 @@ fclose(ptr1);
 fclose(ptr2);
 ptr2=fopen("modify.txt","w");
 fclose(ptr2);
-        fflush(stdin);
 go(10,34);
 printf("Press u to update another student details");
 go(10,36);
